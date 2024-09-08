@@ -1,0 +1,25 @@
+.col-2{
+  height: 20vmin;
+}
+.c1{
+  background-color: blue;
+}
+.c2{
+  background-color: brown;
+}
+.c3{
+  background-color:crimson;
+}
+.c4{
+  background-color:darkmagenta;
+}
+.c5{
+  background-color:limegreen;
+}
+.c6{
+  background-color: darkslategrey;
+}
+button{
+  height: 100%;
+  width: 100%;
+}
